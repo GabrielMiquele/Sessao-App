@@ -11,7 +11,7 @@ Registre o que você assistiu, o que está assistindo e o que quer ver, tudo com
 
 ### [⬇️ Baixar APK](https://github.com/SEU_USUARIO/SEU_REPO/releases/latest)
 
-<img width="720" height="1450" alt="Screenshot_20261008_231231_Sessao" src="https://github.com/user-attachments/assets/9985cfb5-3eb9-4726-a241-06d9409535bd" />
+<img width="280" alt="Screenshot_20261008_231231_Sessao" src="https://github.com/user-attachments/assets/9985cfb5-3eb9-4726-a241-06d9409535bd" />
 
 </div>
 
@@ -35,7 +35,7 @@ Registre o que você assistiu, o que está assistindo e o que quer ver, tudo com
 
 ### 🏠 Início
 
-<img width="720" height="1447" alt="Screenshot_20261008_231144_Sessao" src="https://github.com/user-attachments/assets/4afe34ba-a487-4141-be7a-99ba325969e7" />
+<img width="280" alt="Screenshot_20261008_231144_Sessao" src="https://github.com/user-attachments/assets/4afe34ba-a487-4141-be7a-99ba325969e7" />
 
 Todos os seus títulos em uma grade de capas. Cada capa mostra o status (*Assistido*, *Assistindo* ou *Na lista*), o tipo e a sua nota. Títulos que você ainda não viu aparecem em preto e branco.
 
@@ -43,7 +43,7 @@ Todos os seus títulos em uma grade de capas. Cada capa mostra o status (*Assist
 
 ### 🔍 Filtros e busca
 
-<img width="720" height="1450" alt="Screenshot_20261008_231231_Sessao" src="https://github.com/user-attachments/assets/c1946115-6032-4dd8-a585-1534ec8ca935" />
+<img width="280" alt="Screenshot_20261008_231231_Sessao" src="https://github.com/user-attachments/assets/c1946115-6032-4dd8-a585-1534ec8ca935" />
 
 Encontre qualquer título pelo nome ou filtre por **Filmes, Séries, Animes, Doramas, Documentários, Assistidos, Assistindo e Quero assistir**.
 
@@ -51,7 +51,7 @@ Encontre qualquer título pelo nome ou filtre por **Filmes, Séries, Animes, Dor
 
 ### ➕ Adicionar um título
 
-<img width="720" height="1497" alt="Screenshot_20261008_230910_Sessao" src="https://github.com/user-attachments/assets/c1fd48d8-fc39-4ca6-8d58-5acfe64adb3e" />
+<img width="280" alt="Screenshot_20261008_230910_Sessao" src="https://github.com/user-attachments/assets/c1fd48d8-fc39-4ca6-8d58-5acfe64adb3e" />
 
 Comece a digitar o nome e o app sugere resultados com capa e ano. É só tocar no que você quer.
 
@@ -59,7 +59,7 @@ Comece a digitar o nome e o app sugere resultados com capa e ano. É só tocar n
 
 ### 🎞️ Filmes
 
-<img width="720" height="1455" alt="Screenshot_20261008_231003_Sessao" src="https://github.com/user-attachments/assets/2a27b0fc-c6fd-475d-b125-e046530736a0" />
+<img width="280" alt="Screenshot_20261008_231003_Sessao" src="https://github.com/user-attachments/assets/2a27b0fc-c6fd-475d-b125-e046530736a0" />
 
 Escolha o tipo, marque como *Já assisti* e dê sua nota.
 
@@ -67,7 +67,7 @@ Escolha o tipo, marque como *Já assisti* e dê sua nota.
 
 ### 🍥 Animes e séries em andamento
 
-<img width="720" height="1456" alt="Screenshot_20261008_230935_Sessao" src="https://github.com/user-attachments/assets/5efe2182-8dbd-4172-9a74-73384a585264" />
+<img width="280" alt="Screenshot_20261008_230935_Sessao" src="https://github.com/user-attachments/assets/5efe2182-8dbd-4172-9a74-73384a585264" />
 
 Marcou *Assistindo*? Informe a **temporada** e o **episódio** para continuar de onde parou.
 
@@ -75,7 +75,7 @@ Marcou *Assistindo*? Informe a **temporada** e o **episódio** para continuar de
 
 ### ✏️ Editar ou excluir
 
-<img width="720" height="1449" alt="Screenshot_20261008_231346_Sessao" src="https://github.com/user-attachments/assets/99f9c1e9-50e5-492e-b47e-34ea51dc87da" />
+<img width="280" alt="Screenshot_20261008_231346_Sessao" src="https://github.com/user-attachments/assets/99f9c1e9-50e5-492e-b47e-34ea51dc87da" />
 
 Mudou de ideia sobre a nota ou o status? Edite a qualquer momento, ou exclua o título.
 
@@ -83,7 +83,7 @@ Mudou de ideia sobre a nota ou o status? Edite a qualquer momento, ou exclua o t
 
 ### 👤 Seu perfil
 
-<img width="720" height="1456" alt="Screenshot_20261008_231308_Sessao" src="https://github.com/user-attachments/assets/17df6aea-fd64-401f-84bb-b5203bdfb769" />
+<img width="280" alt="Screenshot_20261008_231308_Sessao" src="https://github.com/user-attachments/assets/17df6aea-fd64-401f-84bb-b5203bdfb769" />
 
 Troque sua foto, edite seu nome e veja o **histórico** de tudo que você já assistiu.
 
